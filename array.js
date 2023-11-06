@@ -1,6 +1,6 @@
 
 document.write("Combine two arrays"+"<br>");
-document.write("Given arrays:[0,1,2,3,6,-2,4,6]"+"<br>"+"[5,6,7,8]"+"<br>");
+document.write("Given arrays:[1,2,3,4]"+"<br>"+"[5,6,7,8]"+"<br>");
 
 
 let a=[1,2,3,4];
